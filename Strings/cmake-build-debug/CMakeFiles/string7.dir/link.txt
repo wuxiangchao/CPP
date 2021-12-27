@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/string7.dir/string7.cpp.o  -o string7 

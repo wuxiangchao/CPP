@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Strings"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string9">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string9"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string9/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string9/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string8">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string8"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string8/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string8/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string6">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string6"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string6/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string6/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string5">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string5"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string5/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string5/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string4">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string4"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string4/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string4/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string7">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string7"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string7/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string7/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string3">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string3"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string3/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string3/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string2">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string2/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/string2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 string2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Strings/string2.cpp">
+			<Option target="string2"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Strings/string3.cpp">
+			<Option target="string3"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Strings/string4.cpp">
+			<Option target="string4"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Strings/string5.cpp">
+			<Option target="string5"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Strings/string6.cpp">
+			<Option target="string6"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Strings/string7.cpp">
+			<Option target="string7"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Strings/string8.cpp">
+			<Option target="string8"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Strings/string9.cpp">
+			<Option target="string9"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Strings/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

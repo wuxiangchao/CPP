@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/testGphoto2.dir/testGphoto2.cpp.o  -o testGphoto2 

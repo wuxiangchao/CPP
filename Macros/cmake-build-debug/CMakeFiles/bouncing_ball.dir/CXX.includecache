@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/ProgramLearning/CPP/Macros/bouncing_ball.cpp
+iostream
+-
+string
+-
+ncurses.h
+-
+myMacros.h
+/mnt/f/ProgramLearning/CPP/Macros/myMacros.h
+
+/mnt/f/ProgramLearning/CPP/Macros/myMacros.h
+iostream
+-
+

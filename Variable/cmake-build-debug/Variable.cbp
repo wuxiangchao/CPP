@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Variable"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="globalAndLocal">
+				<Option output="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/globalAndLocal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 globalAndLocal"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="globalAndLocal/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/globalAndLocal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 globalAndLocal/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testGphoto2">
+				<Option output="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/testGphoto2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 testGphoto2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testGphoto2/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/testGphoto2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 testGphoto2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_test">
+				<Option output="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/string_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 string_test"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_test/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/string_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 string_test/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VariableRnage">
+				<Option output="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/VariableRnage" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 VariableRnage"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VariableRnage/fast">
+				<Option output="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/VariableRnage" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 VariableRnage/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Variable/VariableRnage.cpp">
+			<Option target="VariableRnage"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Variable/globalAndLocal.cpp">
+			<Option target="globalAndLocal"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Variable/string_test.cpp">
+			<Option target="string_test"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Variable/testGphoto2.cpp">
+			<Option target="testGphoto2"/>
+		</Unit>
+		<Unit filename="/mnt/f/ProgramLearning/CPP/Variable/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

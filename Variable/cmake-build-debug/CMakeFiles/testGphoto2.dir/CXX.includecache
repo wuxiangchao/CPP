@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/ProgramLearning/CPP/Variable/testGphoto2.cpp
+gphoto2/gphoto2-camera.h
+-
+cstdlib
+-
+cstdio
+-
+fcntl.h
+-
+

@@ -1,0 +1,3 @@
+/mnt/f/ProgramLearning/CPP/Operators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/f/ProgramLearning/CPP/Operators/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/f/ProgramLearning/CPP/Operators/cmake-build-debug/CMakeFiles/exercise01.dir

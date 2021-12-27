@@ -1,0 +1,6 @@
+/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/CMakeFiles/globalAndLocal.dir
+/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/CMakeFiles/testGphoto2.dir
+/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/CMakeFiles/string_test.dir
+/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug/CMakeFiles/VariableRnage.dir

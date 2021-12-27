@@ -1,0 +1,10 @@
+/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/CMakeFiles/string9.dir
+/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/CMakeFiles/string8.dir
+/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/CMakeFiles/string6.dir
+/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/CMakeFiles/string5.dir
+/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/CMakeFiles/string4.dir
+/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/CMakeFiles/string7.dir
+/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/CMakeFiles/string3.dir
+/mnt/f/ProgramLearning/CPP/Strings/cmake-build-debug/CMakeFiles/string2.dir

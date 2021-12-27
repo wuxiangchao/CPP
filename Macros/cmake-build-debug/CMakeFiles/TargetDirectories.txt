@@ -1,0 +1,5 @@
+/mnt/f/ProgramLearning/CPP/Macros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/f/ProgramLearning/CPP/Macros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/f/ProgramLearning/CPP/Macros/cmake-build-debug/CMakeFiles/Ellipse.dir
+/mnt/f/ProgramLearning/CPP/Macros/cmake-build-debug/CMakeFiles/macrosExercise02.dir
+/mnt/f/ProgramLearning/CPP/Macros/cmake-build-debug/CMakeFiles/macrosExercise.dir

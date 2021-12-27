@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/ProgramLearning/CPP/Struct/Sales_data.h
+string
+-
+
+/mnt/f/ProgramLearning/CPP/Struct/struct_001.cpp
+iostream
+-
+Sales_data.h
+/mnt/f/ProgramLearning/CPP/Struct/Sales_data.h
+

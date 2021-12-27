@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/multiplicationTable.dir/multiplicationTable.cpp.o  -o multiplicationTable 

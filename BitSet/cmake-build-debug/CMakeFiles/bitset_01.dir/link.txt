@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/bitset_01.dir/bitset_01.cpp.o  -o bitset_01 

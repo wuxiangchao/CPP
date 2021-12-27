@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Ellipse.dir/Ellipse.cpp.o  -o Ellipse 
