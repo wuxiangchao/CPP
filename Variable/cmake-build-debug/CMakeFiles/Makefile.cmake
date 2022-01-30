@@ -48,6 +48,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/exercise_01.dir/DependInfo.cmake"
+  "CMakeFiles/basic_variables.dir/DependInfo.cmake"
   "CMakeFiles/globalAndLocal.dir/DependInfo.cmake"
   "CMakeFiles/testGphoto2.dir/DependInfo.cmake"
   "CMakeFiles/string_test.dir/DependInfo.cmake"

@@ -111,6 +111,32 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named exercise_01
+
+# Build rule for target.
+exercise_01: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_01
+.PHONY : exercise_01
+
+# fast build rule for target.
+exercise_01/fast:
+	$(MAKE) -f CMakeFiles/exercise_01.dir/build.make CMakeFiles/exercise_01.dir/build
+.PHONY : exercise_01/fast
+
+#=============================================================================
+# Target rules for targets named basic_variables
+
+# Build rule for target.
+basic_variables: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 basic_variables
+.PHONY : basic_variables
+
+# fast build rule for target.
+basic_variables/fast:
+	$(MAKE) -f CMakeFiles/basic_variables.dir/build.make CMakeFiles/basic_variables.dir/build
+.PHONY : basic_variables/fast
+
+#=============================================================================
 # Target rules for targets named globalAndLocal
 
 # Build rule for target.
@@ -188,6 +214,60 @@ VariableRnage.s: VariableRnage.cpp.s
 VariableRnage.cpp.s:
 	$(MAKE) -f CMakeFiles/VariableRnage.dir/build.make CMakeFiles/VariableRnage.dir/VariableRnage.cpp.s
 .PHONY : VariableRnage.cpp.s
+
+basic_variables.o: basic_variables.cpp.o
+
+.PHONY : basic_variables.o
+
+# target to build an object file
+basic_variables.cpp.o:
+	$(MAKE) -f CMakeFiles/basic_variables.dir/build.make CMakeFiles/basic_variables.dir/basic_variables.cpp.o
+.PHONY : basic_variables.cpp.o
+
+basic_variables.i: basic_variables.cpp.i
+
+.PHONY : basic_variables.i
+
+# target to preprocess a source file
+basic_variables.cpp.i:
+	$(MAKE) -f CMakeFiles/basic_variables.dir/build.make CMakeFiles/basic_variables.dir/basic_variables.cpp.i
+.PHONY : basic_variables.cpp.i
+
+basic_variables.s: basic_variables.cpp.s
+
+.PHONY : basic_variables.s
+
+# target to generate assembly for a file
+basic_variables.cpp.s:
+	$(MAKE) -f CMakeFiles/basic_variables.dir/build.make CMakeFiles/basic_variables.dir/basic_variables.cpp.s
+.PHONY : basic_variables.cpp.s
+
+exercise_01.o: exercise_01.cpp.o
+
+.PHONY : exercise_01.o
+
+# target to build an object file
+exercise_01.cpp.o:
+	$(MAKE) -f CMakeFiles/exercise_01.dir/build.make CMakeFiles/exercise_01.dir/exercise_01.cpp.o
+.PHONY : exercise_01.cpp.o
+
+exercise_01.i: exercise_01.cpp.i
+
+.PHONY : exercise_01.i
+
+# target to preprocess a source file
+exercise_01.cpp.i:
+	$(MAKE) -f CMakeFiles/exercise_01.dir/build.make CMakeFiles/exercise_01.dir/exercise_01.cpp.i
+.PHONY : exercise_01.cpp.i
+
+exercise_01.s: exercise_01.cpp.s
+
+.PHONY : exercise_01.s
+
+# target to generate assembly for a file
+exercise_01.cpp.s:
+	$(MAKE) -f CMakeFiles/exercise_01.dir/build.make CMakeFiles/exercise_01.dir/exercise_01.cpp.s
+.PHONY : exercise_01.cpp.s
 
 globalAndLocal.o: globalAndLocal.cpp.o
 
@@ -277,6 +357,8 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
+	@echo "... exercise_01"
+	@echo "... basic_variables"
 	@echo "... edit_cache"
 	@echo "... globalAndLocal"
 	@echo "... testGphoto2"
@@ -285,6 +367,12 @@ help:
 	@echo "... VariableRnage.o"
 	@echo "... VariableRnage.i"
 	@echo "... VariableRnage.s"
+	@echo "... basic_variables.o"
+	@echo "... basic_variables.i"
+	@echo "... basic_variables.s"
+	@echo "... exercise_01.o"
+	@echo "... exercise_01.i"
+	@echo "... exercise_01.s"
 	@echo "... globalAndLocal.o"
 	@echo "... globalAndLocal.i"
 	@echo "... globalAndLocal.s"
