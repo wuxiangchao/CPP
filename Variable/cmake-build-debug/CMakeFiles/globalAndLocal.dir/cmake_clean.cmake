@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/globalAndLocal.dir/globalAndLocal.cpp.o"
+  "CMakeFiles/globalAndLocal.dir/globalAndLocal.cpp.o.d"
   "globalAndLocal"
   "globalAndLocal.pdb"
 )

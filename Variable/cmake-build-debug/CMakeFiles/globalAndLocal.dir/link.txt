@@ -1,1 +1,1 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/globalAndLocal.dir/globalAndLocal.cpp.o  -o globalAndLocal 
+/usr/bin/c++ -g -rdynamic CMakeFiles/globalAndLocal.dir/globalAndLocal.cpp.o -o globalAndLocal 

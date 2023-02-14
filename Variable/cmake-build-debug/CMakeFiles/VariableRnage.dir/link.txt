@@ -1,1 +1,1 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/VariableRnage.dir/VariableRnage.cpp.o  -o VariableRnage 
+/usr/bin/c++ -g -rdynamic CMakeFiles/VariableRnage.dir/VariableRnage.cpp.o -o VariableRnage 

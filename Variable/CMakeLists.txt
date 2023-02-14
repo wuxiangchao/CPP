@@ -13,3 +13,5 @@ add_executable(globalAndLocal globalAndLocal.cpp)
 add_executable(basic_variables basic_variables.cpp)
 
 add_executable(exercise_01 exercise_01.cpp)
+
+add_executable(variables_001 variables_001.cpp)

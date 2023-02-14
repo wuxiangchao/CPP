@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/basic_variables.dir/basic_variables.cpp.o"
+  "CMakeFiles/basic_variables.dir/basic_variables.cpp.o.d"
   "basic_variables"
   "basic_variables.pdb"
 )

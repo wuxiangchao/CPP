@@ -1,1 +1,1 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/exercise_01.dir/exercise_01.cpp.o  -o exercise_01 
+/usr/bin/c++ -g -rdynamic CMakeFiles/exercise_01.dir/exercise_01.cpp.o -o exercise_01 

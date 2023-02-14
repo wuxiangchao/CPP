@@ -61,5 +61,6 @@ int main(int argc, char const *argv[])
     cout << "p = " << p << "; *p = " << *p << endl;
     int &r2 = *p;
     cout << "r2 = " << r2 << "; &r2 = " << &r2 << endl;
+    
     return 0;
 }
