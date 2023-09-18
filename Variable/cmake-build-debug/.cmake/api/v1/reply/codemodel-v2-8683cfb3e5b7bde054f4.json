@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Variable",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VariableRnage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VariableRnage-Debug-d25587ae6c2188ea8c42.json",
+					"name" : "VariableRnage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "basic_variables::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-basic_variables-Debug-f7869adb47f678c3354e.json",
+					"name" : "basic_variables",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise_01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise_01-Debug-4d6ea4198503103accb8.json",
+					"name" : "exercise_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "globalAndLocal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-globalAndLocal-Debug-b27b9b3779af13ad0573.json",
+					"name" : "globalAndLocal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string_test-Debug-d79782d5ffd1ee7fae3a.json",
+					"name" : "string_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testGphoto2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testGphoto2-Debug-917d045e6f1ddc30532b.json",
+					"name" : "testGphoto2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "variables_001::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variables_001-Debug-3deeea12adaf9ffe2484.json",
+					"name" : "variables_001",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/f/ProgramLearning/CPP/Variable/cmake-build-debug",
+		"source" : "/mnt/f/ProgramLearning/CPP/Variable"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

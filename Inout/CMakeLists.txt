@@ -6,3 +6,5 @@ set(CMAKE_BUILD_TYPE "Release")
 
 
 add_executable(getline getline.cpp)
+
+add_executable(get_from get_from.cpp)

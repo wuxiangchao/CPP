@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/mnt/f/ProgramLearning/CPP/Strings",
+  "command": "/usr/bin/c++    -o CMakeFiles/string2.dir/string2.cpp.o -c /mnt/f/ProgramLearning/CPP/Strings/string2.cpp",
+  "file": "/mnt/f/ProgramLearning/CPP/Strings/string2.cpp"
+},
+{
+  "directory": "/mnt/f/ProgramLearning/CPP/Strings",
+  "command": "/usr/bin/c++    -o CMakeFiles/string3.dir/string3.cpp.o -c /mnt/f/ProgramLearning/CPP/Strings/string3.cpp",
+  "file": "/mnt/f/ProgramLearning/CPP/Strings/string3.cpp"
+},
+{
+  "directory": "/mnt/f/ProgramLearning/CPP/Strings",
+  "command": "/usr/bin/c++    -o CMakeFiles/string4.dir/string4.cpp.o -c /mnt/f/ProgramLearning/CPP/Strings/string4.cpp",
+  "file": "/mnt/f/ProgramLearning/CPP/Strings/string4.cpp"
+},
+{
+  "directory": "/mnt/f/ProgramLearning/CPP/Strings",
+  "command": "/usr/bin/c++    -o CMakeFiles/string5.dir/string5.cpp.o -c /mnt/f/ProgramLearning/CPP/Strings/string5.cpp",
+  "file": "/mnt/f/ProgramLearning/CPP/Strings/string5.cpp"
+},
+{
+  "directory": "/mnt/f/ProgramLearning/CPP/Strings",
+  "command": "/usr/bin/c++    -o CMakeFiles/string6.dir/string6.cpp.o -c /mnt/f/ProgramLearning/CPP/Strings/string6.cpp",
+  "file": "/mnt/f/ProgramLearning/CPP/Strings/string6.cpp"
+},
+{
+  "directory": "/mnt/f/ProgramLearning/CPP/Strings",
+  "command": "/usr/bin/c++    -o CMakeFiles/string7.dir/string7.cpp.o -c /mnt/f/ProgramLearning/CPP/Strings/string7.cpp",
+  "file": "/mnt/f/ProgramLearning/CPP/Strings/string7.cpp"
+},
+{
+  "directory": "/mnt/f/ProgramLearning/CPP/Strings",
+  "command": "/usr/bin/c++    -o CMakeFiles/string8.dir/string8.cpp.o -c /mnt/f/ProgramLearning/CPP/Strings/string8.cpp",
+  "file": "/mnt/f/ProgramLearning/CPP/Strings/string8.cpp"
+},
+{
+  "directory": "/mnt/f/ProgramLearning/CPP/Strings",
+  "command": "/usr/bin/c++    -o CMakeFiles/string9.dir/string9.cpp.o -c /mnt/f/ProgramLearning/CPP/Strings/string9.cpp",
+  "file": "/mnt/f/ProgramLearning/CPP/Strings/string9.cpp"
+}
+]

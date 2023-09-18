@@ -2,6 +2,8 @@ cmake_minimum_required(VERSION 2.8)
 
 project(Strings)
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 add_executable(string2 string2.cpp)
 
 add_executable(string3 string3.cpp)
